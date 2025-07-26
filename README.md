@@ -21,9 +21,9 @@ I'm a passionate developer with a keen interest in software development and open
 
 Here are some of my notable projects:
 
-- [Pure Zen Essence Website](https://github.com/daniel-leith/pure-zen-essence-website): A single page website showcasing products offering by the company which includes a working contact form.
-- [Carty's Professional Services Website](https://github.com/daniel-leith/project2): A brief description of what this project does.
-- [Project 3](https://github.com/daniel-leith/project3): A brief description of what this project does.
+- [Pure Zen Essence Website](https://github.com/elixer-prince/pure-zen-essence): A brief description of what this project does.
+- [Carty's Professional Services Website](https://github.com/elixer-prince/cartys-professional-services): A brief description of what this project does.
+- [UCOY Temple Website](https://github.com/elixer-prince/ucoy-temple): A brief description of what this project does.
 
 ## Connect with Me
 
