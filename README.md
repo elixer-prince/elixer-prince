@@ -8,7 +8,7 @@ I'm a passionate developer with a keen interest in software development and inno
 
 ## My GitHub Stats
 
-![Daniel Leith's GitHub stats](https://github-readme-stats.vercel.app/api?username=daniel-leith&show_icons=true&theme=radical)
+![Daniel Leith's GitHub stats](https://github-readme-stats.vercel.app/api?username=elixer-prince&show_icons=true&theme=radical)
 
 ## Top Languages
 
