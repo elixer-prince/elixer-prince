@@ -6,10 +6,6 @@ I'm a passionate developer with a keen interest in software development and inno
 - 🌱 I’m currently learning React/React Native with Laravel API.
 - 😄 Pronouns: He/Him
 
-## My GitHub Stats
-
-![Daniel Leith's GitHub stats](https://github-readme-stats.vercel.app/api?username=elixer-prince&show_icons=true&theme=radical)
-
 ## Top Languages
 
 - php (laravel)
