@@ -12,7 +12,10 @@ I'm a passionate developer with a keen interest in software development and inno
 
 ## Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-leith&layout=compact&theme=radical)
+- php (laravel)
+- javascript (react, alpine)
+- html
+- css (tailwind, scss, bem)
 
 ## Projects
 
