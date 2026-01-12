@@ -2,15 +2,19 @@
 
 Here is an overview of my experience:
 
-- 🔭 I’m currently working on a full stack productivity app called Elixer Focus using React, React Native/Epo, and Laravel API.
-- 🌱 I’m currently learning React/React Native with Laravel API.
+- 🔭 I’m currently working on a full stack productivity app called Elixer Focus using React, React Native/Expo, and Laravel API.
+- 🌱 I’m currently learning:
+  - React JS (Modern development)
+  - React Native/Expo (For mobile apps)
+  - Laravel/REST API (Backend Framework)
+  - GSAP (Awwards level animation)
 
 ## Top Languages
 
-- php (laravel)
-- javascript (react, alpine)
-- html
-- css (tailwind, scss, bem)
+- PHP (Laravel)
+- JavaScript (React JS, Alpine JS)
+- HTML
+- CSS (Tailwind CSS, SCSS, BEM Methodology)
 
 ## Projects
 
