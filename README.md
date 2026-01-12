@@ -1,13 +1,10 @@
 # Hi there, I'm Daniel Leith 👋
 
-I'm a passionate developer with a keen interest in software development and open-source contributions. I enjoy working on diverse projects and exploring new technologies.
+I'm a passionate developer with a keen interest in software development and innovation. I enjoy working on diverse projects and exploring new technologies to improve my expertise.
 
-- 🔭 I’m currently working on two websites for 2 businesses as well as a website for my temple.
-- 🌱 I’m currently learning Full Stack Web Development using the MERN stack and React Native for applications.
-- 💬 Ask me about HTML/CSS & SCSS/JavaScript & TypeScript
-- 📫 How to reach me: danielleith3@gmail.com
+- 🔭 I’m currently working on a full stack productivity app called Elixer Focus using React, React Native/Epo, and Laravel API.
+- 🌱 I’m currently learning React/React Native with Laravel API.
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: [A Fun Fact About You]
 
 ## My GitHub Stats
 
