@@ -12,7 +12,7 @@ Here is an overview of my experience:
 ## Top Languages
 
 - PHP (Laravel)
-- JavaScript (React JS, Alpine JS)
+- JavaScript (React, Alpine JS)
 - HTML
 - CSS (Tailwind CSS, SCSS, BEM Methodology)
 
@@ -20,9 +20,7 @@ Here is an overview of my experience:
 
 Here are some of my notable projects:
 
-- [Pure Zen Essence Website](https://github.com/elixer-prince/pure-zen-essence): A brief description of what this project does.
-- [Carty's Professional Services Website](https://github.com/elixer-prince/cartys-professional-services): A brief description of what this project does.
-- [UCOY Temple Website](https://github.com/elixer-prince/ucoy-temple): A brief description of what this project does.
+- [Pure Zen Essence Website](https://github.com/elixer-prince/pure-zen-essence): A full stack products display page with an admin backend for updates.
 
 ## Connect with Me
 
