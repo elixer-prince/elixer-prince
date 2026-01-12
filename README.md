@@ -4,7 +4,6 @@ Here is an overview of my experience:
 
 - 🔭 I’m currently working on a full stack productivity app called Elixer Focus using React, React Native/Epo, and Laravel API.
 - 🌱 I’m currently learning React/React Native with Laravel API.
-- 😄 Pronouns: He/Him
 
 ## Top Languages
 
