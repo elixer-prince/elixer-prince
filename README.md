@@ -1,6 +1,6 @@
-# Hi there, I'm Daniel Leith 👋
+# Hi there, visitor! 👋
 
-I'm a passionate developer with a keen interest in software development and innovation. I enjoy working on diverse projects and exploring new technologies to improve my expertise.
+Here is an overview of my experience:
 
 - 🔭 I’m currently working on a full stack productivity app called Elixer Focus using React, React Native/Epo, and Laravel API.
 - 🌱 I’m currently learning React/React Native with Laravel API.
