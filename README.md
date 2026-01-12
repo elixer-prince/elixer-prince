@@ -1,9 +1,9 @@
-# Hi there, visitor! 👋
+# Hi there, visitor!
 
 Here is an overview of my experience:
 
-- 🔭 I’m currently working on a full stack productivity app called Elixer Focus using React, React Native/Expo, and Laravel API.
-- 🌱 I’m currently learning:
+- I’m currently working on a full stack productivity app called Elixer Focus using React, React Native/Expo, and Laravel API.
+- I’m currently learning:
   - React JS (Modern development)
   - React Native/Expo (For mobile apps)
   - Laravel/REST API (Backend Framework)
