@@ -13,6 +13,7 @@ Here is an overview of my experience:
 
 - PHP (Laravel)
 - JavaScript (React, Alpine JS)
+- TypeScript
 - HTML
 - CSS (Tailwind CSS, SCSS, BEM Methodology)
 
@@ -20,6 +21,7 @@ Here is an overview of my experience:
 
 Here are some of my notable projects:
 
+- [Elixer Focus System](https://github.com/elixer-prince/elixer-focus): A full stack website that merges productivity with social media.
 - [Pure Zen Essence Website](https://github.com/elixer-prince/pure-zen-essence): A full stack products display page with an admin backend for updates.
 
 ## Connect with Me
